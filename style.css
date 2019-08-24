@@ -4,6 +4,12 @@
 	font-size: 13px;
 }
 
+a:visited { 
+	text-decoration: none;
+	color: black;
+}
+
+
 footer {
 	background: #f2f2f2;
 	border-top: 1px solid #e4e4e4;
@@ -79,4 +85,15 @@ main {
 	background-color: #f2f2f2;
 	border: 1px solid #f2f2f2;
 	border-radius: 4px;
+}
+
+.sign-in {
+	display: inline-block;
+	height: 30px;
+	font-weight: 700;
+	color: white;
+	border: 1px solid #4285f4;
+	outline: none;
+	background-color: #4285f4;
+	border-radius: 3px;
 }
