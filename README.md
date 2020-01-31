@@ -1,7 +1,10 @@
-___	Google homepage 	___
-___	    Test		___
-___				___
+## Link
+```
+https://kosmos434.github.io/google-homepage/
+```
 
+## About
+This was made as part of the curriculum for `The Odin Project`.
+The purpose is to get a familiarity with HTML/CSS.
 
-This is a simple replication of the Google search page.
-I'm doing this as part of the Odin Project curriculum.
+###### 🗻
